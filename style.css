@@ -6,6 +6,7 @@ body{
 }
 .A{
     background-color: black;
+    
 }  
 section{
     background-color: white;
@@ -15,4 +16,17 @@ section{
 }
 .pie2{
     background-color: white;
+}
+.img02{
+    width:75px;
+    height:75px;
+    padding:5px;
+    margin:5px;
+}
+.pagina{
+    padding: 50px;
+}
+.menu{
+    text-align: center;
+   
 }
