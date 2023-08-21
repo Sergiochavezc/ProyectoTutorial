@@ -1,10 +1,10 @@
 
 .A{
-    background-color: black;
+    background-color: none;
     
 }  
 section{
-    background-color: white;
+    background-color: none;
 } 
 .pie{
     background-color: black;
@@ -13,9 +13,9 @@ section{
     background-color: white;
 }
 .img02{
-    width:75px;
-    height:75px;  
-    margin:0px;
+    width:81px;
+    height:68px;  
+    margin:1px;
 }
 .pagina{
     padding: 49px;
@@ -25,16 +25,19 @@ section{
 }
 
 .menu{
+    background-color: black;
     text-align: center;
     height: 20px;
-    margin-top: -40px;
-    padding:5px;    
+    margin-top: -90px;
+    padding:32px;    
 }
-.img04{
-    margin: -128px 0px 79px 800px; 
-}
+
 .texto01{
     width: 700px;
-    margin: -344px 1px 13px 588px;  
+    margin: -344px 1px 101px 588px;  
     font-size: 1.6rem;
+}
+
+.img06{
+    margin: 0px 0px 0px 850px;
 }
