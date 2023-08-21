@@ -1,9 +1,4 @@
-p{
-    color: blue;
-}
-body{
-    background-color: rgb(235, 127, 12);
-}
+
 .A{
     background-color: black;
     
@@ -19,14 +14,27 @@ section{
 }
 .img02{
     width:75px;
-    height:75px;
-    padding:5px;
-    margin:5px;
+    height:75px;  
+    margin:0px;
 }
 .pagina{
-    padding: 50px;
+    padding: 49px;
+    text-decoration: none;
+    color: white;
+    width: 100px;
 }
+
 .menu{
     text-align: center;
-   
+    height: 20px;
+    margin-top: -40px;
+    padding:5px;    
+}
+.img04{
+    margin: -128px 0px 79px 800px; 
+}
+.texto01{
+    width: 700px;
+    margin: -344px 1px 13px 588px;  
+    font-size: 1.6rem;
 }
