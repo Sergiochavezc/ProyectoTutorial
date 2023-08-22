@@ -39,5 +39,49 @@ section{
 }
 
 .img06{
-    margin: 0px 0px 0px 850px;
+    margin: -62px 0px 10px 1120px;
 }
+.fondopreg{
+    background-image: url(https://fondosmil.com/fondo/18180.jpg);
+    background-repeat: no-repeat;
+    width: 1000px;
+    font-size: 1.9rem;
+    background-attachment: fixed;
+}  
+.fondoTropas{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.fondoAtaque{
+    background-image: url(https://fondosmil.com/fondo/18229.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 900px;
+    font-size: 1.7rem;
+}
+.tituata{
+    font-size: 3.3rem; 
+}
+.aldea{
+    width: 600px;
+    height: 500px;
+}
+.tituAlde{
+    font-size: 3.3rem;
+    color: antiquewhite;
+}
+.tituAlde2{
+    font-size: 2.1rem;
+    color: antiquewhite;
+}
+.tituAlde3{
+    font-size: 1.5rem;
+    color: antiquewhite;
+}
+.fondoalde{
+    background-image: url(https://fondosmil.com/fondo/18198.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}   
