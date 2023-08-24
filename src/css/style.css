@@ -1,12 +1,154 @@
-h1{
-    color: blue;
+@keyframes slidein {
+    from{
+        margin-left:100% ;
+        width: 300%;
+    }
+    to{
+        margin-left:0% ;
+        width: 100%;
+    }
 }
-h2{
-    color: #ff3300;
+.A{
+    background-color: none;
+    
+}  
+section{
+    background-color: none;
+} 
+.pie{
+    background-color: black;
 }
-.s{
-    color: hsl(120, 57%, 40%);
+
+.img02{
+    width:81px;
+    height:68px;  
+    margin:1px;
 }
-.a{
-    color: blue;
+.pagina{
+    padding: 49px;
+    text-decoration: none;
+    color: white;
+    width: 100px;
 }
+
+.contac{
+    margin: 300px 0px 0px 390px;
+    width: 250px;
+    height: 250px;
+}
+.fondoconta{
+    background-image: url(https://images5.alphacoders.com/782/782657.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1400px;
+}
+.menu{
+    background-color: black;
+    text-align: center;
+    height: 20px;
+    margin-top: -90px;
+    padding:32px;    
+}
+
+.texto01{
+    width: 700px;
+    margin: -344px 1px 101px 588px;  
+    font-size: 1.6rem;
+}
+
+.img06{
+    margin: -62px 0px 10px 1120px;
+}
+.fondopreg{
+    background-image: url(https://fondosmil.com/fondo/18180.jpg);
+    background-repeat: no-repeat;
+    width: 1000px;
+    font-size: 1.9rem;
+    background-attachment: fixed;
+    opacity: 4.5;
+}
+.titupreg{
+    margin: 0px 0px 0px 340px; 
+}  
+.respPreg{
+    animation-name: slidein;
+    animation-duration: 3s;
+}
+.fondoTropas{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.titutropas{
+    margin: 0px 0px 0px 540px; 
+    font-size: 3.9rem;
+}
+.subtitutropas{
+    font-size: 2.9rem;
+}
+.fondorecur{
+    background-image: url(https://www.pngmart.com/files/3/Clash-of-Clans-Transparent-Background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 700px;
+    width: 900px;
+    font-size: 1.7rem;
+    
+}
+.titurecu{
+    margin: 0px 0px 0px 518px; 
+}
+.fondoAtaque{
+    background-image: url(https://fondosmil.com/fondo/18229.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 900px;
+    font-size: 1.7rem;
+}
+.fondoDef{
+    background-image: url(https://fondosmil.com/fondo/18208.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1500px;
+   
+}
+.tituDef{
+    width: 900px;
+    font-size: 3.0rem;
+    color: white;
+    margin: 0px 0px 0px 588px; 
+}
+.subtituDef{
+    width: 900px;
+    font-size: 2.4rem;
+    color: white;
+    animation-name: slidein;
+    animation-duration: 3s;
+}
+.tituata{
+    font-size: 3.3rem; 
+}
+.aldea{
+    width: 600px;
+    height: 500px;
+}
+.tituAlde{
+    font-size: 3.3rem;
+    color: white;
+    margin: 0px 0px 0px 588px; 
+}
+.tituAlde2{
+    font-size: 2.1rem;
+    color: white;
+}
+.tituAlde3{
+    font-size: 1.5rem;
+    color: white;
+}
+.fondoalde{
+    background-image: url(https://fondosmil.com/fondo/18198.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+   
+}   
